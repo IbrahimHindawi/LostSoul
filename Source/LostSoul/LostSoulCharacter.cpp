@@ -77,6 +77,11 @@ void ALostSoulCharacter::SetupPlayerInputComponent(class UInputComponent* Player
 }
 
 
+void ALostSoulCharacter::EndSlide()
+{
+	bIsSliding = false;
+}
+
 void ALostSoulCharacter::OnResetVR()
 {
 	UHeadMountedDisplayFunctionLibrary::ResetOrientationAndPosition();
@@ -90,6 +95,12 @@ void ALostSoulCharacter::TouchStarted(ETouchIndex::Type FingerIndex, FVector Loc
 void ALostSoulCharacter::TouchStopped(ETouchIndex::Type FingerIndex, FVector Location)
 {
 		StopJumping();
+}
+
+void ALostSoulCharacter::Jump()
+{
+	EndSlide();
+	Super::Jump();
 }
 
 void ALostSoulCharacter::TurnAtRate(float Rate)
