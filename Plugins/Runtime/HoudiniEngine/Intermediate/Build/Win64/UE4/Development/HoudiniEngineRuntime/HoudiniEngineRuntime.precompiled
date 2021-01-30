@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"PCH.HoudiniEngineRuntime.h.obj",
+		"Module.HoudiniEngineRuntime.cpp.obj",
+		"Module.HoudiniEngineRuntime.gen.1_of_4.cpp.obj",
+		"Module.HoudiniEngineRuntime.gen.2_of_4.cpp.obj",
+		"Module.HoudiniEngineRuntime.gen.3_of_4.cpp.obj",
+		"Module.HoudiniEngineRuntime.gen.4_of_4.cpp.obj"
+	]
+}
