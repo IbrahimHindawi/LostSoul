@@ -6,12 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="739ad1f7-00a2-4463-a9c7-6da24db1d756" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Content/AI/Blueprint/AlertState.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/AI/Blueprint/BB_EnemyAi.uasset" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Content/AI/Blueprint/BL_GeneralLibrary.uasset" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Content/AI/Blueprint/BP_AiController.uasset" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Content/AI/Blueprint/BP_EnemyAiGiant.uasset" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Content/AI/Blueprint/BTT_ChangeAlertState.uasset" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Content/AI/Blueprint/BTT_GetRandomLocation.uasset" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Content/AI/Blueprint/BT_EnemyAi.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/AI/Blueprint/CheckForSearchingIndex.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/AI/Blueprint/FindRandomLocation.uasset" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Content/AI/Model/Materials/MAT_Enemy.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LostSoul/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LostSoul/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
