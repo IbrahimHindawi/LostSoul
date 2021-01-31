@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define HOUDINIENGINE_HoudiniStringResolver_generated_h
 
-#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniStringResolver_h_69_GENERATED_BODY \
+#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniStringResolver_h_69_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniAttributeResolver_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FHoudiniStringResolver Super;
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniAttributeResolver>();
 
-#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniStringResolver_h_37_GENERATED_BODY \
+#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniStringResolver_h_37_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniStringResolver_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -29,7 +29,7 @@ template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniAttribut
 template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniStringResolver>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniStringResolver_h
+#define CURRENT_FILE_ID LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniStringResolver_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
