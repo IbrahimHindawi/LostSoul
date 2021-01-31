@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define HOUDINIENGINERUNTIME_HoudiniGenericAttribute_generated_h
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGenericAttribute_h_57_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGenericAttribute_h_57_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniGenericAttribute_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> HOUDINIENGINERUNTIME_API UScriptStruct* StaticStruct<struct FHoudiniGenericAttribute>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGenericAttribute_h
+#define CURRENT_FILE_ID Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGenericAttribute_h
 
 
 #define FOREACH_ENUM_EATTRIBOWNER(op) \

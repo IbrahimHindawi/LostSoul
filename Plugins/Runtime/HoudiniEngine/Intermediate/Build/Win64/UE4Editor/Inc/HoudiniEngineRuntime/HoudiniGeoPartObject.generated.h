@@ -13,49 +13,49 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define HOUDINIENGINERUNTIME_HoudiniGeoPartObject_generated_h
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_273_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_273_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniGeoPartObject_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> HOUDINIENGINERUNTIME_API UScriptStruct* StaticStruct<struct FHoudiniGeoPartObject>();
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_200_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_200_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniMeshSocket_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> HOUDINIENGINERUNTIME_API UScriptStruct* StaticStruct<struct FHoudiniMeshSocket>();
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_181_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_181_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniCurveInfo_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> HOUDINIENGINERUNTIME_API UScriptStruct* StaticStruct<struct FHoudiniCurveInfo>();
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_154_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_154_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniVolumeInfo_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> HOUDINIENGINERUNTIME_API UScriptStruct* StaticStruct<struct FHoudiniVolumeInfo>();
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_127_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_127_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniPartInfo_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> HOUDINIENGINERUNTIME_API UScriptStruct* StaticStruct<struct FHoudiniPartInfo>();
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_107_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_107_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniGeoInfo_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> HOUDINIENGINERUNTIME_API UScriptStruct* StaticStruct<struct FHoudiniGeoInfo>();
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_88_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h_88_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniObjectInfo_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -63,7 +63,7 @@ template<> HOUDINIENGINERUNTIME_API UScriptStruct* StaticStruct<struct FHoudiniG
 template<> HOUDINIENGINERUNTIME_API UScriptStruct* StaticStruct<struct FHoudiniObjectInfo>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h
+#define CURRENT_FILE_ID Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineRuntime_Private_HoudiniGeoPartObject_h
 
 
 #define FOREACH_ENUM_EHOUDINICURVEMETHOD(op) \

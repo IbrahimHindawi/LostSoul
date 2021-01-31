@@ -13,14 +13,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define HOUDINIENGINE_HoudiniInstanceTranslator_generated_h
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniInstanceTranslator_h_69_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniInstanceTranslator_h_69_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniInstancedOutputPartData_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniInstancedOutputPartData>();
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniInstanceTranslator_h_49_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniInstanceTranslator_h_49_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniInstancedOutputPerSplitAttributes_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -28,7 +28,7 @@ template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniInstance
 template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniInstancedOutputPerSplitAttributes>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniInstanceTranslator_h
+#define CURRENT_FILE_ID Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniInstanceTranslator_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

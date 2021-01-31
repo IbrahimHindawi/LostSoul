@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define HOUDINIENGINE_HoudiniPDGImporterMessages_generated_h
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h_172_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h_172_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniPDGImportBGEOResultMessage_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FHoudiniPDGImportBGEOMessage Super;
@@ -21,35 +21,35 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniPDGImportBGEOResultMessage>();
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h_156_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h_156_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniPDGImportNodeOutput_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniPDGImportNodeOutput>();
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h_137_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h_137_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniPDGImportNodeOutputObject_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniPDGImportNodeOutputObject>();
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h_123_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h_123_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniGenericAttributes_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniGenericAttributes>();
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h_62_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h_62_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniPDGImportBGEOMessage_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniPDGImportBGEOMessage>();
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h_47_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h_47_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniPDGImportBGEODiscoverMessage_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -57,7 +57,7 @@ template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniPDGImpor
 template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniPDGImportBGEODiscoverMessage>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h
+#define CURRENT_FILE_ID Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPDGImporterMessages_h
 
 
 #define FOREACH_ENUM_EHOUDINIPDGIMPORTBGEORESULT(op) \

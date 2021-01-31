@@ -49,7 +49,7 @@ public class HoudiniEngine : ModuleRules
     {
         string HoudiniVersion = "18.5.462";
         bool bIsRelease = true;
-        string HFSPath = "C:/cygwin/home/prisms/builder-new/Nightly18.5CMake/dev/hfs";
+        string HFSPath = "C:/cygwin/home/prisms/builder-new/Nightly18.5CMakePython3/dev/hfs";
         string RegistryPath = "HKEY_LOCAL_MACHINE\\SOFTWARE\\Side Effects Software";
         string Registry32Path = "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Side Effects Software";
         string log;

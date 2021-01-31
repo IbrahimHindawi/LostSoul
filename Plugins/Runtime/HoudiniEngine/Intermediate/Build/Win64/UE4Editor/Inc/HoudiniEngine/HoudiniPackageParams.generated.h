@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define HOUDINIENGINE_HoudiniPackageParams_generated_h
 
-#define LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPackageParams_h_58_GENERATED_BODY \
+#define Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPackageParams_h_58_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniPackageParams_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniPackageParams>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID LostSoul_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPackageParams_h
+#define CURRENT_FILE_ID Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniPackageParams_h
 
 
 #define FOREACH_ENUM_EPACKAGEREPLACEMODE(op) \

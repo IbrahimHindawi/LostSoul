@@ -3,9 +3,6 @@
 #pragma once
 
 #include "CoreMinimal.h"
-
-#include <concrt.h>
-
 #include "GameFramework/Character.h"
 #include "LostSoulCharacter.generated.h"
 
